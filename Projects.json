@@ -1,0 +1,7 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.19063100795947,48.21068281909886]},"properties":{"Id":0,"Name":"Wasamac"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.76246251016521,48.16955958966178]},"properties":{"Id":0,"Name":"Upper-Beaver"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.10041507813621,46.70824623547083]},"properties":{"Id":0,"Name":"Temiskaming dam"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.0248371003211,48.17960534091765]},"properties":{"Id":0,"Name":"Granada"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.62200928195625,47.4060067948226]},"properties":{"Id":0,"Name":"First Cobalt"}}
+]}
